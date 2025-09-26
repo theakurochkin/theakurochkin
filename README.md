@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theakurochkin
-- 👀 I’m interested in QA engineering.
-- 🌱 I’m currently learning coding.
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently learning Infrastructure engineering.
 - 💞️ I’m looking to collaborate on some exciting projects.
 - 📫 How to reach me: mssg.me/theakurochkin
 
